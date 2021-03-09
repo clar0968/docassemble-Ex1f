@@ -44,7 +44,7 @@ def find_package_data(where='.', package='', exclude=standard_exclude, exclude_d
 
 setup(name='docassemble.Ex1f',
       version='',
-      description=('Exercise Ex1f'),
+      description=('Exercise Ex1f test'),
       long_description='# docassemble.DocassembleExercises\r\n\r\n\r\n\r\n## Author\r\n\r\nAidyn Clarke, clar0968@flinders.edu.au\r\n\r\n',
       long_description_content_type='text/markdown',
       author='Aidyn Clarke',
